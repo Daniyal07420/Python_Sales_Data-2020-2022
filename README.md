@@ -110,6 +110,6 @@ You can import the exported CSV files to Power BI or Excel to visualize:
 ---
 
 ## 🔗 Repository Link
-📘 [GitHub Repository](https://github.com/Daniyal07420/Sales_Data_Analysis_2020_2022)
+📘 [GitHub Repository](https://github.com/Daniyal07420/Python_Sales_Data-2020-2022?tab=readme-ov-file)
 
 
