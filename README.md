@@ -66,13 +66,13 @@ Used NumPy for additional mathematical statistics:
 ---
 
 ## 💾 Output Files (Auto-Generated)
-| File Name | Description |
-|------------|-------------|
+| File Name                | Description                                |
+|--------------------------|--------------------------------------------|
 | `cleaned_sales_data.csv` | Cleaned dataset ready for Power BI / Excel |
-| `yearly_sales_trend.csv` | Yearly total sales and growth rate |
-| `top10_country_sales.csv` | Top-performing countries summary |
+| `yearly_sales_trend.csv` | Yearly total sales and growth rate         |
+| `top10_country_sales.csv`| Top-performing countries summary           |
 
----
+
 
 ## 📈 Power BI / Excel Dashboard (Optional)
 You can import the exported CSV files to Power BI or Excel to visualize:
